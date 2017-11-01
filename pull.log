@@ -1,0 +1,39 @@
+remote object '/system/vendor/lib64/libcam.sdkclient.so' does not exist
+remote object '/system/vendor/lib64/libnfc_ndef.so' does not exist
+remote object '/system/vendor/lib64/libmmsdkservice.feature.so' does not exist
+remote object '/system/vendor/lib64/liblogwrap.so' does not exist
+remote object '/system/vendor/lib64/libaudioprimarydevicehalifclient.so' does not exist
+remote object '/system/vendor/lib64/libh264enc_sa.ca7.so' does not exist
+remote object '/system/vendor/lib64/libfs_mgr.so' does not exist
+remote object '/system/vendor/lib64/libmtkcam_stdutils.so' does not exist
+remote object '/system/vendor/lib64/liba3m.so' does not exist
+remote object '/system/vendor/lib64/libimageio_plat_drv_FrmB.so' does not exist
+remote object '/system/vendor/lib64/libcam.campipe.so' does not exist
+remote object '/system/vendor/lib64/librilutilsmtk.so' does not exist
+remote object '/system/vendor/lib64/libmtkcamera_client.so' does not exist
+remote object '/system/vendor/lib64/libcam.iopipe_FrmB.so' does not exist
+remote object '/system/vendor/lib64/libmmsdkservice.so' does not exist
+remote object '/system/vendor/lib64/libimageio_FrmB.so' does not exist
+remote object '/system/vendor/lib64/libmtkcam_metadata.so' does not exist
+remote object '/system/vendor/lib64/libcamdrv_FrmB.so' does not exist
+
+
+
+remote object '/system/vendor/lib/libcam.sdkclient.so' does not exist
+remote object '/system/vendor/lib/libnfc_ndef.so' does not exist
+remote object '/system/vendor/lib/libmmsdkservice.feature.so' does not exist
+remote object '/system/vendor/lib/libaudioprimarydevicehalifclient.so' does not exist
+remote object '/system/vendor/lib/libfs_mgr.so' does not exist
+remote object '/system/vendor/lib/libmtkcam_stdutils.so' does not exist
+remote object '/system/vendor/lib/liba3m.so' does not exist
+remote object '/system/vendor/lib/libimageio_plat_drv_FrmB.so' does not exist
+remote object '/system/vendor/lib/libcam.campipe.so' does not exist
+remote object '/system/vendor/lib/librilutilsmtk.so' does not exist
+remote object '/system/vendor/lib/libmtkcamera_client.so' does not exist
+remote object '/system/vendor/lib/libm.so' does not exist
+remote object '/system/vendor/lib/libcam.iopipe_FrmB.so' does not exist
+remote object '/system/vendor/lib/libimageio_FrmB.so' does not exist
+remote object '/system/vendor/lib/libmtkcam_metadata.so' does not exist
+remote object '/system/vendor/lib/libbessurround_mtk.so' does not exist
+remote object '/system/vendor/lib/libcamdrv_FrmB.so' does not exist
+remote object '/system/vendor/lib/hw/radio.fm.mt6750.so' does not exist
