@@ -1,0 +1,4 @@
+service teed /system/vendor/bin/teed
+	class core
+	user system
+	group system
